@@ -1,0 +1,32 @@
+section {
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.corinthians {
+    display: flex;
+    align-items: center;  
+    justify-content: center; 
+    gap: 4rem; 
+
+
+    margin-bottom: 1rem ;
+}
+
+.corinthians img {
+    width: 20rem;
+
+}
+
+.corinthians p {
+    width: 30rem;
+    text-align: center;
+}
+
+.romero {
+    display: flex;
+}
+
+.romero img {
+    width: 20rem;
+}
